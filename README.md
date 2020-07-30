@@ -1,6 +1,5 @@
 `Welcome!`
-  
-![image](./resources/bg.png)
+<img src="https://raw.githubusercontent.com/s1dequest/s1dequest/master/resources/bg.png" alt="Hello world">
 ```
 > 🌊 My name is Max, and I'm a DevOps Engineer currently working at BMW in South Carolina.  
 >    I've been working in software engineering for about 4 years since graduating with 
