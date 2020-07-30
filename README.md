@@ -1,7 +1,7 @@
 ### `Welcome!`
 <img src="https://raw.githubusercontent.com/s1dequest/s1dequest/master/resources/bg.png" alt="Hello world">
 
-```
+```yaml
 metadata:
   labels:
     about: 
@@ -16,7 +16,7 @@ metadata:
     leisure:
     - 🏎️ When I am not hacking away at work and/or on GitHub, I generally spend my time 
     - drooling over cars, playing games, exercising, or learning the banjo.
-    
+
     contact: 
     - 📮 Contact me via email (maxz@hey.com) or LinkedIn (linkedin.com/in/max-zintel).  
 ```
