@@ -5,7 +5,7 @@
 metadata:
   labels:
     about: 
-    - 🌊 My name is Max, and I'm a DevOps Engineer currently working at BMW in South Carolina.  
+    - 🌊 My name is Max, and I'm a DevOps Engineer.  
     - I've been working in software engineering for about 4 years since graduating with 
     - a degree in Mathematics from SUNY Geneseo.
 
