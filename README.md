@@ -1,12 +1,12 @@
 ### `Welcome!`
-<img src="https://raw.githubusercontent.com/s1dequest/s1dequest/master/resources/bg.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/s1dequest/s1dequest/master/resources/e39_transparent.png" alt="Hello world">
 
 ```yaml
 metadata:
   labels:
     about: 
-    - 🌊 My name is Max, and I'm a DevOps Engineer.  
-    - I've been working in software engineering for about 4 years since graduating with 
+    - 🌊 My name is Max, and I'm a DevOps Engineer for a growing startup called Funnel Leasing.  
+    - I've been happily working in software engineering ever since graduating with 
     - a degree in Mathematics from SUNY Geneseo.
 
     tech:
