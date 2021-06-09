@@ -6,8 +6,8 @@ metadata:
   labels:
     about: 
     - 🌊 My name is Max, and I'm a DevOps Engineer for a growing startup called Funnel Leasing.  
-    - I've been happily working in software engineering ever since graduating with 
-    - a degree in Mathematics from SUNY Geneseo.
+    - I've been happily working in software engineering full-time ever since graduating with 
+    - a degree in Mathematics from SUNY Geneseo in 2017.
 
     tech:
     - 💻 I'm currently working a lot with Terraform and Kubernetes (checkout my repo s1dequest/turbo!)
@@ -15,7 +15,7 @@ metadata:
 
     leisure:
     - 🏎️ When I am not hacking away at work and/or on GitHub, I generally spend my time 
-    - drooling over cars, playing games, exercising, or learning the banjo.
+    - drooling over cars (the image above is some art of my 2001 BMW M5!), playing games, exercising, or learning the banjo.
 
     contact: 
     - 📮 Contact me via email (maxz@hey.com) or LinkedIn (linkedin.com/in/max-zintel).  
