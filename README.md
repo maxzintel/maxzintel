@@ -1,5 +1,5 @@
 ### `Howdy!`
-<img src="https://raw.githubusercontent.com/maxzintel/maxzintel/master/resources/DevTurbo-3.png" alt="Hello World!">
+<img src="https://raw.githubusercontent.com/maxzintel/maxzintel/master/resources/DevTurbo-4.png" alt="Hello World!">
 
 ```yaml
 metadata:
@@ -16,8 +16,7 @@ metadata:
 
     leisure:
     - 🏎️ When I am not hacking away at work and/or on GitHub, I spend my time wrenching on
-    - my project car (now a 1982 Porsche 911SC, but the image above is some art of my old 
-    - 2001 BMW M5!), reading business or sci-fi books, playing games, exercising, or in the sauna.
+    - my project car (now a 1982 Porsche 911SC, previously a BMW E39 M5!), reading business or sci-fi books, playing games, exercising, or in the sauna.
 
     contact: 
     - 📮 Contact me via email (maxz@hey.com) or LinkedIn (linkedin.com/in/max-zintel).
