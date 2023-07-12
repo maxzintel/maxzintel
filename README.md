@@ -1,5 +1,5 @@
 ### `Howdy!`
-<img src="https://raw.githubusercontent.com/maxzinte/maxzintel/master/resources/DevTurbo-3.png" alt="Hello World!">
+<img src="https://raw.githubusercontent.com/maxzintel/maxzintel/master/resources/DevTurbo-3.png" alt="Hello World!">
 
 ```yaml
 metadata:
