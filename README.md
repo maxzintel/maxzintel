@@ -25,5 +25,5 @@ metadata:
 
 <p align="center"> 
   Visitors<br>
-  <img src="https://profile-counter.glitch.me/s1dequest/count.svg" />
+  <img src="https://profile-counter.glitch.me/maxzintel/count.svg" />
 </p>
