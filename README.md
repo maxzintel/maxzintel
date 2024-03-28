@@ -5,13 +5,14 @@
 metadata:
   labels:
     about: 
-    - 🌊 My name is Max, and I'm a Software Engineer, writer, builder, and weight-lifter.  
-    - I've been happily working in software engineering full-time ever since graduating with 
+    - 🌊 My name is Max, and I'm a Software Leader, writer, builder, and weight-lifter.  
+    - I've been happily working in software full-time ever since graduating with 
     - a degree in Mathematics from SUNY Geneseo in 2017.
 
     tech:
-    - 💻 At my 9-5 I'm currently working a lot with Terraform and Kubernetes
-    - to build out automated, declarative, highly available distributed systems.
+    - 💻 At Funnel (a startup in the rental management space) I'm currently working a lot with Terraform and Kubernetes
+    - to lead, build, and orchestrate projects to develop automated, declarative, & highly available distributed systems.
+    - I previously worked at BMW Group doing the same thing, with focus on building iOS/Android apps & internal services.
     - In my personal ventures I am building MaxFindsCars.com, and having a ton of fun doing it!
 
     leisure:
