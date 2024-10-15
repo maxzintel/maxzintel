@@ -21,7 +21,7 @@ metadata:
     - my project car (now a 1982 Porsche 911SC, previously a BMW E39 M5!), reading business or sci-fi books, lifting weights, playing sports, or am in the sauna.
 
     books:
-    - 🍎 My favorite books & series right now:
+    - 🍎 My favorite books & series right now...
     - Skunkworks by Ben Rich,
     - Total Recall by Arnold Schwarzenegger,
     - The Stormlight Archives by Brandon Sanderson
